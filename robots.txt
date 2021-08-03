@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://stafabandterbaru.herokuapp.com/host-http-stafalagu.wapku.net/sitemap.xml
+Sitemap: https://stafabandterbaru.herokuapp.com/sitemap.xml
